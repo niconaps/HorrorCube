@@ -1,0 +1,48 @@
+{
+    "bundle": {
+        "id": "cube.2024_1_8_8898",
+        "type": "wwise",
+        "name": "",
+        "tag": "",
+        "description": "",
+        "vendor": "",
+        "version": {
+            "year": 2024,
+            "major": 1,
+            "minor": "8",
+            "build": 8898
+        },
+        "labels": [],
+        "links": [],
+        "productDependentData": {},
+        "documentation": [],
+        "image": "",
+        "redistributables": [],
+        "eulas": [],
+        "groups": [],
+        "files": []
+    },
+    "installType": "normal",
+    "installed": {
+        "date": 1761529238557,
+        "files": [
+            "Cube.OSX.tar.xz",
+            "Cube.Documentation.tar.xz"
+        ],
+        "groups": [
+            {
+                "id": "AuthoringOS",
+                "valueId": "OSX"
+            },
+            {
+                "id": "Packages",
+                "valueId": "Cube"
+            }
+        ]
+    },
+    "targetDir": "/Applications/Cube2024.1.8.8898/HorrorCube",
+    "children": [],
+    "unpackedFiles": [
+        "images/cube.2024_1_8_8898.png"
+    ]
+}
