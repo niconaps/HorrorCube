@@ -1,0 +1,155 @@
+Event	ID	Name			Wwise Object Path	Notes
+	9714164	End_FireGem_Player			\Default Work Unit\Main\Magic\End_FireGem_Player	
+	32029953	Pain_Goblin			\Default Work Unit\Main\Pain\Pain_Goblin	
+	52370326	Pain_Slith			\Default Work Unit\Main\Pain\Pain_Slith	
+	87064326	Pain_Rhino			\Default Work Unit\Main\Pain\Pain_Rhino	
+	157639802	Rumble			\Default Work Unit\Main\Rumble	
+	157654016	Fire_Fireball_Monster			\Default Work Unit\Main\Magic\Fire_Fireball_Monster	
+	160686570	SplashIn_Monster			\Default Work Unit\Main\SplashIn_Monster	
+	199291532	Fire_Slimeball_Monster			\Default Work Unit\Main\Magic\Fire_Slimeball_Monster	
+	219497941	NoMagic			\Default Work Unit\Main\NoMagic	
+	227445756	ItemHealth200			\Default Work Unit\Main\ItemHealth200	
+	360217301	End_Slimeball_Monster			\Default Work Unit\Main\Magic\End_Slimeball_Monster	
+	375266055	Defeated_Goblin			\Default Work Unit\Main\Defeated\Defeated_Goblin	
+	401958326	Grunt_Slith			\Default Work Unit\Main\Grunt\Grunt_Slith	Posted when monster sees player and wakes up from sleeping state
+	427908151	Defeated_Ogre			\Default Work Unit\Main\Defeated\Defeated_Ogre	
+	436652326	Grunt_Rhino			\Default Work Unit\Main\Grunt\Grunt_Rhino	Posted when monster sees player and wakes up from sleeping state
+	530129416	Teleport			\Default Work Unit\Main\Teleport	
+	674522502	Land			\Default Work Unit\Main\Land	
+	779629997	Spawn_Monster			\Default Work Unit\Main\Spawn_Monster	
+	784615425	Fire_Bite_Monster			\Default Work Unit\Main\Magic\Fire_Bite_Monster	
+	840179825	Fire_Iceball_Monster			\Default Work Unit\Main\Magic\Fire_Iceball_Monster	
+	856071815	Grunt_Bauul			\Default Work Unit\Main\Grunt\Grunt_Bauul	Posted when monster sees player and wakes up from sleeping state
+	908277812	Defeated_Slith			\Default Work Unit\Main\Defeated\Defeated_Slith	
+	930941543	Pain_Bauul			\Default Work Unit\Main\Pain\Pain_Bauul	
+	1052365209	PupMagic			\Default Work Unit\Main\PupMagic	
+	1098487589	Fire_LightningGem_Player			\Default Work Unit\Main\Magic\Fire_LightningGem_Player	
+	1110865203	Hit_Fireball_Monster			\Default Work Unit\Main\Magic\Hit_Fireball_Monster	
+	1125681085	ItemSpawn			\Default Work Unit\Main\ItemSpawn	
+	1207059019	Pain_Knight			\Default Work Unit\Main\Pain\Pain_Knight	
+	1278524204	Defeated_Rhino			\Default Work Unit\Main\Defeated\Defeated_Rhino	
+	1379053034	Spawn_Player			\Default Work Unit\Main\Spawn_Player	
+	1532553273	Foot_Ogre			\Default Work Unit\Main\Foot\Foot_Ogre	
+	1542346421	Defeated_Knight			\Default Work Unit\Main\Defeated\Defeated_Knight	
+	1620107411	Fire_PoisonGem_Player			\Default Work Unit\Main\Magic\Fire_PoisonGem_Player	
+	1636303851	Grunt_Knight			\Default Work Unit\Main\Grunt\Grunt_Knight	Posted when monster sees player and wakes up from sleeping state
+	1698673413	Pain_Rat			\Default Work Unit\Main\Pain\Pain_Rat	
+	1758594367	Map_Loaded			\Default Work Unit\Main\Map_Loaded	
+	1894362767	Foot_Player			\Default Work Unit\Main\Foot\Foot_Player	
+	1922349781	Defeated_Bauul			\Default Work Unit\Main\Defeated\Defeated_Bauul	
+	1996139369	Pain			\Default Work Unit\Main\Pain\Pain	
+	2007968988	End_Iceball_Monster			\Default Work Unit\Main\Magic\End_Iceball_Monster	
+	2052767559	Foot_Knight			\Default Work Unit\Main\Foot\Foot_Knight	
+	2057306229	Foot_Goblin			\Default Work Unit\Main\Foot\Foot_Goblin	
+	2117476293	Fire_IceGem_Monster			\Default Work Unit\Main\Magic\Fire_IceGem_Monster	
+	2202981293	Grunt_Ogre			\Default Work Unit\Main\Grunt\Grunt_Ogre	Posted when monster sees player and wakes up from sleeping state
+	2323254379	Hit_FireGem_Monster			\Default Work Unit\Main\Magic\Hit_FireGem_Monster	
+	2390793602	Fire_IceGem_Player			\Default Work Unit\Main\Magic\Fire_IceGem_Player	
+	2437085230	SwitchMagic			\Default Work Unit\Main\SwitchMagic	
+	2460807274	Fire_FireGem_Monster			\Default Work Unit\Main\Magic\Fire_FireGem_Monster	
+	2465710861	Pain_Ogre			\Default Work Unit\Main\Pain\Pain_Ogre	
+	2484024762	Fire_Staff_Player			\Default Work Unit\Main\Magic\Fire_Staff_Player	
+	2521139513	ItemMagic			\Default Work Unit\Main\ItemMagic	
+	2677419351	ItemHealth100			\Default Work Unit\Main\ItemHealth100	
+	2677919691	Foot_Bauul			\Default Work Unit\Main\Foot\Foot_Bauul	
+	2706330144	Hit_FireGem_Player			\Default Work Unit\Main\Magic\Hit_FireGem_Player	
+	2798325225	Foot_Rat			\Default Work Unit\Main\Foot\Foot_Rat	
+	2921530952	Fire_LightningGem_Monster			\Default Work Unit\Main\Magic\Fire_LightningGem_Monster	
+	3024368545	Hit_Slimeball_Monster			\Default Work Unit\Main\Magic\Hit_Slimeball_Monster	
+	3137127082	SuperGemPup			\Default Work Unit\Main\SuperGemPup	
+	3373753397	Teleporter			\Default Work Unit\Main\Teleporter	
+	3507659693	Defeated_Hellpig			\Default Work Unit\Main\Defeated\Defeated_Hellpig	
+	3682968165	Defeated_Player			\Default Work Unit\Main\Defeated\Defeated_Player	
+	3732061108	PupOut			\Default Work Unit\Main\PupOut	
+	3808688735	End_FireGem_Monster			\Default Work Unit\Main\Magic\End_FireGem_Monster	
+	3825277969	ItemWizardHat100			\Default Work Unit\Main\ItemWizardHat100	
+	3826003282	Foot_Rhino			\Default Work Unit\Main\Foot\Foot_Rhino	
+	3833651337	Jump			\Default Work Unit\Main\Jump	
+	3838741285	Grunt_Rat			\Default Work Unit\Main\Grunt\Grunt_Rat	Posted when monster sees player and wakes up from sleeping state
+	3875610858	ItemWizardHat150			\Default Work Unit\Main\ItemWizardHat150	
+	3877293442	Foot_Slith			\Default Work Unit\Main\Foot\Foot_Slith	
+	3877942876	SplashOut_Player			\Default Work Unit\Main\SplashOut_Player	
+	3952911171	Defeated_Rat			\Default Work Unit\Main\Defeated\Defeated_Rat	
+	3954482959	SplashIn_Player			\Default Work Unit\Main\SplashIn_Player	
+	3954861711	Fire_FireGem_Player			\Default Work Unit\Main\Magic\Fire_FireGem_Player	
+	3957683912	Hit_Iceball_Monster			\Default Work Unit\Main\Magic\Hit_Iceball_Monster	
+	3999919399	SplashOut_Monster			\Default Work Unit\Main\SplashOut_Monster	
+	4013911457	Grunt_Goblin			\Default Work Unit\Main\Grunt\Grunt_Goblin	Posted when monster sees player and wakes up from sleeping state
+	4052749775	Pain_HellPig			\Default Work Unit\Main\Pain\Pain_HellPig	
+	4053570031	Grunt_HellPig			\Default Work Unit\Main\Grunt\Grunt_HellPig	Posted when monster sees player and wakes up from sleeping state
+	4149105284	JumpPad			\Default Work Unit\Main\JumpPad	
+	4214542295	End_Fireball_Monster			\Default Work Unit\Main\Magic\End_Fireball_Monster	
+	4226354843	Foot_HellPig			\Default Work Unit\Main\Foot\Foot_HellPig	
+	4290568846	Fire_PoisonGem_Monster			\Default Work Unit\Main\Magic\Fire_PoisonGem_Monster	
+
+Switch Group	ID	Name			Wwise Object Path	Notes
+	3865314626	Material			\Default Work Unit\Material	
+
+Switch	ID	Name	Switch Group			Notes
+	803837735	Sand	Material			
+	841620460	Concrete	Material			
+	1216965916	Stone	Material			
+	2058049674	Wood	Material			
+	2185786256	Gravel	Material			
+	2473969246	Metal	Material			
+	2637588553	Tile	Material			
+	2654748154	Water	Material			
+	4248645337	Grass	Material			
+
+Game Parameter	ID	Name			Wwise Object Path	Notes
+	151362964	PlayerHealth			\Default Work Unit\PlayerHealth	
+
+Effect plug-ins	ID	Name	Type				Notes
+	652610570	Default (Custom)	Wwise Parametric EQ			
+
+Source plug-ins	ID	Name	Type		Wwise Object Path	Notes
+	3061687	Wwise Silence	Wwise Silence		\Actor-Mixer Hierarchy\Default Work Unit\Main\Magic\LightningGem Magic\Gem Drop\Silence\Wwise Silence	
+	88765737	Wwise Silence	Wwise Silence		\Actor-Mixer Hierarchy\Default Work Unit\Main\Magic\FireGem Magic\Gem Drop\Silence\Wwise Silence	
+	593025620	Wwise Silence	Wwise Silence		\Actor-Mixer Hierarchy\Default Work Unit\Main\Magic\IceGem Magic\Gem Drop\Silence\Wwise Silence	
+	739702003	Wwise Silence	Wwise Silence		\Actor-Mixer Hierarchy\Default Work Unit\Main\Magic\Silence\Wwise Silence	
+
+In Memory Audio	ID	Name	Audio source file		Wwise Object Path	Notes	Data Size
+	13511360	FS_Concrete_02	Y:\Desktop\Cube201\Cube\WwiseProject\.cache\E1\{E1648CFA-46A2-C835-76CD-F8D821D4E838}.wem		\Actor-Mixer Hierarchy\Default Work Unit\Main\Monsters\Footsteps\Concrete\FS_Concrete_02		55392
+	37028884	Splash2	Y:\Desktop\Cube201\Cube\WwiseProject\.cache\22\{2226DBBB-987C-A81A-7D84-617F34EB8316}.wem		\Actor-Mixer Hierarchy\Default Work Unit\Main\Items\Splashes\Splash2		15466
+	48241651	Gem_Breaking_Tail-02	Y:\Desktop\Cube201\Cube\WwiseProject\.cache\20\{20AF66F7-6EA5-2C28-F84F-29E0FFDC72A0}.wem		\Actor-Mixer Hierarchy\Default Work Unit\Main\Magic\IceGem Magic\Gem Drop\Gem Tail\Gem_Breaking_Tail-02		12075
+	72817088	Heartbeat	Y:\Desktop\Cube201\Cube\WwiseProject\.cache\3F\{3FE9208F-6E35-B53A-DEFF-6F79AA76325D}.wem		\Actor-Mixer Hierarchy\Default Work Unit\Main\Main Character\Heartbeat		92768
+	97169596	NoMagic	Y:\Desktop\Cube201\Cube\WwiseProject\.cache\B3\{B3D2B2A3-538F-1E4C-858A-BE2B268FD60C}.wem		\Actor-Mixer Hierarchy\Default Work Unit\Main\Magic\NoMagic	Audiokinetic Inc. All rights reserved. Audio content provided by Alexander Brandon © 2008 Alexander Brandon www.alexanderbrandon.net  The Audio Content contained in this file is the property of Alexander Brandon.  Y our sole right with regard to this Audio Content is to listen to the Audio Content as part of this project.   This Audio Content cannot be used or modified for a commercial purpose nor for public demonstration.	7764
+	104322891	Pain_Slith	Y:\Desktop\Cube201\Cube\WwiseProject\.cache\09\{09AC61F4-296B-8D46-1D78-532281218D5D}.wem		\Actor-Mixer Hierarchy\Default Work Unit\Main\Monsters\Pain_Slith	Audiokinetic Inc. All rights reserved. Audio content provided by Alexander Brandon © 2008 Alexander Brandon www.alexanderbrandon.net  The Audio Content contained in this file is the property of Alexander Brandon.  Y our sole right with regard to this Audio Content is to listen to the Audio Content as part of this project.   This Audio Content cannot be used or modified for a commercial purpose nor for public demonstration.	60104
+	115149825	FS_Gravel_02	Y:\Desktop\Cube201\Cube\WwiseProject\.cache\37\{37E40CA9-31E4-1C23-BC50-D98A07D6B792}.wem		\Actor-Mixer Hierarchy\Default Work Unit\Main\Monsters\Footsteps\Gravel\FS_Gravel_02		34912
+	133549190	Gem_Recharge_Magic	Y:\Desktop\Cube201\Cube\WwiseProject\.cache\30\{30DA033C-B80C-AA6B-CDC3-51A45191A730}.wem		\Actor-Mixer Hierarchy\Default Work Unit\Main\Magic\LightningGem Magic\Gem Recharge\Gem_Recharge_Magic		14407
+	138216516	Teleport	Y:\Desktop\Cube201\Cube\WwiseProject\.cache\B7\{B7DF2F0F-C7B3-2909-DC18-21A46210221B}.wem		\Actor-Mixer Hierarchy\Default Work Unit\Main\Items\Teleport		11382
+	141022160	iceball1	Y:\Desktop\Cube201\Cube\WwiseProject\.cache\EF\{EF940627-698D-3466-58FB-E814432EE1AB}.wem		\Actor-Mixer Hierarchy\Default Work Unit\Main\Monsters\Iceball\iceball1	Audiokinetic Inc. All rights reserved. Audio content provided by Alexander Brandon © 2008 Alexander Brandon www.alexanderbrandon.net  The Audio Content contained in this file is the property of Alexander Brandon.  Y our sole right with regard to this Audio Content is to listen to the Audio Content as part of this project.   This Audio Content cannot be used or modified for a commercial purpose nor for public demonstration.	78774
+	161951897	Staff_Swing-03	Y:\Desktop\Cube201\Cube\WwiseProject\.cache\4E\{4E7DC13D-BA63-9D1F-598E-38B7C827C19B}.wem		\Actor-Mixer Hierarchy\Default Work Unit\Main\Magic\Staff Swing\Staff_Swing-03		6087
+	194966128	Item_Back	Y:\Desktop\Cube201\Cube\WwiseProject\.cache\0A\{0ADC19CF-8E80-C4E6-CC5B-0D68F38F9010}.wem		\Actor-Mixer Hierarchy\Default Work Unit\Main\Items\Item_Back		14392
+	238926382	LightningGem_Blast-01	Y:\Desktop\Cube201\Cube\WwiseProject\.cache\98\{98EC080C-5A14-BC4E-8C61-E8DEDEF12D15}.wem		\Actor-Mixer Hierarchy\Default Work Unit\Main\Magic\LightningGem Magic\LightningGem Magic\LightningGem_Blast-01		31212
+	255792907	Gem_Breaking_Tail-04	Y:\Desktop\Cube201\Cube\WwiseProject\.cache\95\{95A4148C-0119-264F-6B87-A4CF29A9AA30}.wem		\Actor-Mixer Hierarchy\Default Work Unit\Main\Magic\FireGem Magic\Gem Drop\Gem Tail\Gem_Breaking_Tail-04		13983
+	295573679	Gem_Breaking_Tail-03	Y:\Desktop\Cube201\Cube\WwiseProject\.cache\EF\{EFA61736-506B-0A4D-D2EE-C287E53BC8C0}.wem		\Actor-Mixer Hierarchy\Default Work Unit\Main\Magic\LightningGem Magic\Gem Drop\Gem Tail\Gem_Breaking_Tail-03		13375
+	305468272	Staff_Swing-02	Y:\Desktop\Cube201\Cube\WwiseProject\.cache\78\{78F98A32-25F1-ED21-195B-2B6ACFDE1E9D}.wem		\Actor-Mixer Hierarchy\Default Work Unit\Main\Magic\Staff Swing\Staff_Swing-02		5716
+	332383553	Splash1	Y:\Desktop\Cube201\Cube\WwiseProject\.cache\CE\{CE58BA8C-A331-8EAA-5065-D0A144D230C4}.wem		\Actor-Mixer Hierarchy\Default Work Unit\Main\Items\Splashes\Splash1		6066
+	346043831	FS_Concrete_03	Y:\Desktop\Cube201\Cube\WwiseProject\.cache\8A\{8A596C98-C476-CE8D-76AA-AAD65A2C22A3}.wem		\Actor-Mixer Hierarchy\Default Work Unit\Main\Monsters\Footsteps\Concrete\FS_Concrete_03		63584
+	364203786	Gem_Breaking_Head-01	Y:\Desktop\Cube201\Cube\WwiseProject\.cache\12\{129C2D09-E540-D8F0-A798-413A6B4EEECF}.wem		\Actor-Mixer Hierarchy\Default Work Unit\Main\Magic\FireGem Magic\Gem Drop\Gem Head\Gem_Breaking_Head-01		1961
+	385146442	Wwizard_Armor_150	Y:\Desktop\Cube201\Cube\WwiseProject\.cache\67\{6712C29E-2134-D2C4-7F60-48F47748BFF2}.wem		\Actor-Mixer Hierarchy\Default Work Unit\Main\Items\Wwizard_Armor_150		40010
+	450169587	Item_Magic	Y:\Desktop\Cube201\Cube\WwiseProject\.cache\F2\{F24E9BA0-E437-2B28-CB20-32D3E199E721}.wem		\Actor-Mixer Hierarchy\Default Work Unit\Main\Items\Item_Magic		12712
+	487738446	SwitchMagic	Y:\Desktop\Cube201\Cube\WwiseProject\.cache\74\{74BAF7CF-49F1-6E34-E691-A6EA3A5AEEC5}.wem		\Actor-Mixer Hierarchy\Default Work Unit\Main\Magic\SwitchMagic		8650
+	518348916	Gem_Breaking_Head-04	Y:\Desktop\Cube201\Cube\WwiseProject\.cache\17\{17A0A692-A275-63BF-3D3E-893197D5B9BC}.wem		\Actor-Mixer Hierarchy\Default Work Unit\Main\Magic\IceGem Magic\Gem Drop\Gem Head\Gem_Breaking_Head-04		1646
+	524366369	Defeated_Hellpig	Y:\Desktop\Cube201\Cube\WwiseProject\.cache\DF\{DF24D9D9-71C7-F22F-EBAA-488D45F2EE89}.wem		\Actor-Mixer Hierarchy\Default Work Unit\Main\Monsters\Defeated_Hellpig	Audiokinetic Inc. All rights reserved. Audio content provided by Alexander Brandon © 2008 Alexander Brandon www.alexanderbrandon.net  The Audio Content contained in this file is the property of Alexander Brandon.  Y our sole right with regard to this Audio Content is to listen to the Audio Content as part of this project.   This Audio Content cannot be used or modified for a commercial purpose nor for public demonstration.	69812
+	526928835	Gem_Breaking_Head-02	Y:\Desktop\Cube201\Cube\WwiseProject\.cache\76\{7652500F-B323-E570-5225-A612CBCAF37A}.wem		\Actor-Mixer Hierarchy\Default Work Unit\Main\Magic\IceGem Magic\Gem Drop\Gem Head\Gem_Breaking_Head-02		3793
+	534912959	Staff_Swing-04	Y:\Desktop\Cube201\Cube\WwiseProject\.cache\83\{83BEB131-AF41-68D1-5A67-1A12FF208C54}.wem		\Actor-Mixer Hierarchy\Default Work Unit\Main\Magic\Staff Swing\Staff_Swing-04		5980
+	570066150	Staff_Swing-01	Y:\Desktop\Cube201\Cube\WwiseProject\.cache\6D\{6D4764DE-4486-0578-EB5B-ABFE1AE9052A}.wem		\Actor-Mixer Hierarchy\Default Work Unit\Main\Magic\Staff Swing\Staff_Swing-01		5643
+	620009095	Pain_HellPig	Y:\Desktop\Cube201\Cube\WwiseProject\.cache\C3\{C3B6CC22-A761-499F-268F-367A2C6AA824}.wem		\Actor-Mixer Hierarchy\Default Work Unit\Main\Monsters\Pain_HellPig	Audiokinetic Inc. All rights reserved. Audio content provided by Alexander Brandon © 2008 Alexander Brandon www.alexanderbrandon.net  The Audio Content contained in this file is the property of Alexander Brandon.  Y our sole right with regard to this Audio Content is to listen to the Audio Content as part of this project.   This Audio Content cannot be used or modified for a commercial purpose nor for public demonstration.	45530
+	664141788	Gem_Breaking_Head-03	Y:\Desktop\Cube201\Cube\WwiseProject\.cache\E4\{E4647D0A-B8FC-17BA-C4A8-CD47815B3EB7}.wem		\Actor-Mixer Hierarchy\Default Work Unit\Main\Magic\LightningGem Magic\Gem Drop\Gem Head\Gem_Breaking_Head-03		3824
+	664823793	Under_Water	Y:\Desktop\Cube201\Cube\WwiseProject\.cache\6C\{6C7AD8CA-E6E4-EC23-3EAC-D03662450A5E}.wem		\Actor-Mixer Hierarchy\Default Work Unit\Main\Main Character\Under_Water		960112
+	737964251	PigGrunt1	Y:\Desktop\Cube201\Cube\WwiseProject\.cache\D0\{D09D9D3E-A3ED-F7E2-02AD-676009113A38}.wem		\Actor-Mixer Hierarchy\Default Work Unit\Main\Monsters\PigGrunt1		62486
+	742178792	FS_Concrete_01	Y:\Desktop\Cube201\Cube\WwiseProject\.cache\4A\{4A678126-B700-49E1-A478-6FC04A6110BC}.wem		\Actor-Mixer Hierarchy\Default Work Unit\Main\Monsters\Footsteps\Concrete\FS_Concrete_01		43104
+	758758935	iceball2	Y:\Desktop\Cube201\Cube\WwiseProject\.cache\A9\{A9DC3519-8EDF-C932-BFFF-A7041B66EAC2}.wem		\Actor-Mixer Hierarchy\Default Work Unit\Main\Monsters\Iceball\iceball2	Audiokinetic Inc. All rights reserved. Audio content provided by Alexander Brandon © 2008 Alexander Brandon www.alexanderbrandon.net  The Audio Content contained in this file is the property of Alexander Brandon.  Y our sole right with regard to this Audio Content is to listen to the Audio Content as part of this project.   This Audio Content cannot be used or modified for a commercial purpose nor for public demonstration.	83498
+	796997044	Gem_Recharge_Woosh	Y:\Desktop\Cube201\Cube\WwiseProject\.cache\F2\{F2A95814-AC37-AAAC-55C2-00852E5199FD}.wem		\Actor-Mixer Hierarchy\Default Work Unit\Main\Magic\LightningGem Magic\Gem Recharge\Gem_Recharge_Woosh		11647
+	837212226	Teleporter	Y:\Desktop\Cube201\Cube\WwiseProject\.cache\77\{7724DBB0-AC08-753D-91CB-AFB2B5B1E9E1}.wem		\Actor-Mixer Hierarchy\Default Work Unit\Main\Items\Teleporter		216346
+	841798335	LightningGem_Blast-02	Y:\Desktop\Cube201\Cube\WwiseProject\.cache\9C\{9C795292-7428-BE1F-41D9-755917791AEB}.wem		\Actor-Mixer Hierarchy\Default Work Unit\Main\Magic\LightningGem Magic\LightningGem Magic\LightningGem_Blast-02		30340
+	859910549	FS_Gravel_01	Y:\Desktop\Cube201\Cube\WwiseProject\.cache\7E\{7EE12549-37E9-A87B-EC35-3C5145F3967C}.wem		\Actor-Mixer Hierarchy\Default Work Unit\Main\Monsters\Footsteps\Gravel\FS_Gravel_01		43104
+	954216284	Launch_Pad	Y:\Desktop\Cube201\Cube\WwiseProject\.cache\72\{72DE00F2-F552-020F-6E9F-F195AA2147E2}.wem		\Actor-Mixer Hierarchy\Default Work Unit\Main\Items\Launch_Pad		8263
+	985990886	Gem_Breaking_Tail-01	Y:\Desktop\Cube201\Cube\WwiseProject\.cache\EB\{EBA37362-A030-F09D-5836-5043B50BC0B9}.wem		\Actor-Mixer Hierarchy\Default Work Unit\Main\Magic\LightningGem Magic\Gem Drop\Gem Tail\Gem_Breaking_Tail-01		16740
+	1015190561	FS_Gravel_03	Y:\Desktop\Cube201\Cube\WwiseProject\.cache\22\{22C551C7-9F87-483F-3533-F35940253CF0}.wem		\Actor-Mixer Hierarchy\Default Work Unit\Main\Monsters\Footsteps\Gravel\FS_Gravel_03		49248
+
+Streamed Audio	ID	Name	Audio source file	Generated audio file	Wwise Object Path	Notes
+	129964037	Cube_Main_Theme	Y:\Desktop\Cube201\Cube\WwiseProject\.cache\5D\{5D5CEF1E-0354-46C5-67B1-B6CF5873E752}.wem	129964037.wem	\Actor-Mixer Hierarchy\Default Work Unit\Maps\DCP_the_core\Cube_Main_Theme	
+

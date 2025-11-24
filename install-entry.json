@@ -1,6 +1,6 @@
 {
     "bundle": {
-        "id": "cube.2024_1_8_8898",
+        "id": "cube.2024_1_9_8920",
         "type": "wwise",
         "name": "",
         "tag": "",
@@ -9,8 +9,8 @@
         "version": {
             "year": 2024,
             "major": 1,
-            "minor": "8",
-            "build": 8898
+            "minor": "9",
+            "build": 8920
         },
         "labels": [],
         "links": [],
@@ -22,13 +22,9 @@
         "groups": [],
         "files": []
     },
+    "targetDir": "/Applications/Audiokinetic/Cube2024.1.9.8920",
     "installType": "normal",
     "installed": {
-        "date": 1761529238557,
-        "files": [
-            "Cube.OSX.tar.xz",
-            "Cube.Documentation.tar.xz"
-        ],
         "groups": [
             {
                 "id": "AuthoringOS",
@@ -38,11 +34,15 @@
                 "id": "Packages",
                 "valueId": "Cube"
             }
-        ]
+        ],
+        "files": [
+            "Cube.OSX.tar.xz",
+            "Cube.Documentation.tar.xz"
+        ],
+        "date": 1763867563449
     },
-    "targetDir": "/Applications/Cube2024.1.8.8898/HorrorCube",
     "children": [],
     "unpackedFiles": [
-        "images/cube.2024_1_8_8898.png"
+        "images/cube.2024_1_9_8920.png"
     ]
 }
