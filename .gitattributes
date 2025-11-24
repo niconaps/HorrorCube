@@ -288,6 +288,9 @@ Cube/WwiseProject/Presets/Default[[:space:]]Work[[:space:]]Unit.wwu filter=lfs d
 Cube/WwiseProject/ProfilingSession2.prof filter=lfs diff=lfs merge=lfs -text
 Cube/WwiseProject/ProfilingSession3.prof filter=lfs diff=lfs merge=lfs -text
 Cube/WwiseProject/ProfilingSession4.prof filter=lfs diff=lfs merge=lfs -text
+Cube/WwiseProject/ProfilingSession5.prof filter=lfs diff=lfs merge=lfs -text
+Cube/WwiseProject/ProfilingSession6.prof filter=lfs diff=lfs merge=lfs -text
+Cube/WwiseProject/ProfilingSession7.prof filter=lfs diff=lfs merge=lfs -text
 Cube/WwiseProject/Queries filter=lfs diff=lfs merge=lfs -text
 Cube/WwiseProject/Queries/Default[[:space:]]Work[[:space:]]Unit.wwu filter=lfs diff=lfs merge=lfs -text
 Cube/WwiseProject/SoundBanks filter=lfs diff=lfs merge=lfs -text
