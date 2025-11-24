@@ -391,13 +391,25 @@
 				</Event>
 			</Events>
 		</SoundBank>
-		<SoundBank Id="3161908922" Type="User" Language="SFX" Hash="{5EA3A30A-6E3D-2488-7E6F-49C85B29F038}">
+		<SoundBank Id="3161908922" Type="User" Language="SFX" Hash="{2DD287E2-83EA-2999-68E9-3EE9C44305B4}">
 			<ShortName>Main</ShortName>
 			<Path>Main.bnk</Path>
 			<Media>
 				<File Id="13511360" Language="SFX" Streaming="false" Location="Memory">
 					<ShortName>Footsteps\Concrete\FS_Concrete_02.wav</ShortName>
 					<CachePath>E1/{E1648CFA-46A2-C835-76CD-F8D821D4E838}.wem</CachePath>
+				</File>
+				<File Id="15512028" Language="SFX" Streaming="false" Location="Memory">
+					<ShortName>Amazing.wav</ShortName>
+					<CachePath>2C/{2C4EB09B-9EE3-F4FB-E2E1-145B82726205}.wem</CachePath>
+				</File>
+				<File Id="24580226" Language="SFX" Streaming="false" Location="Memory">
+					<ShortName>explodemini3.wav</ShortName>
+					<CachePath>1C/{1C288046-B697-9A82-159A-20815C886A3A}.wem</CachePath>
+				</File>
+				<File Id="28283556" Language="SFX" Streaming="false" Location="Memory">
+					<ShortName>FireGem_Blast-05.wav</ShortName>
+					<CachePath>71/{71FFD520-1401-4255-CF09-C8000E8C1342}.wem</CachePath>
 				</File>
 				<File Id="37028884" Language="SFX" Streaming="false" Location="Memory">
 					<ShortName>splash2.wav</ShortName>
@@ -419,6 +431,10 @@
 					<ShortName>pains.wav</ShortName>
 					<CachePath>09/{09AC61F4-296B-8D46-1D78-532281218D5D}.wem</CachePath>
 				</File>
+				<File Id="104602356" Language="SFX" Streaming="false" Location="Memory">
+					<ShortName>Ah_Yes.wav</ShortName>
+					<CachePath>94/{94EB7B2E-ED51-4F0C-61FD-7284BD7C246F}.wem</CachePath>
+				</File>
 				<File Id="115149825" Language="SFX" Streaming="false" Location="Memory">
 					<ShortName>Footsteps\Gravel\FS_Gravel_02.wav</ShortName>
 					<CachePath>37/{37E40CA9-31E4-1C23-BC50-D98A07D6B792}.wem</CachePath>
@@ -428,9 +444,17 @@
 					<Path>Media/129964037.wem</Path>
 					<CachePath>5D/{5D5CEF1E-0354-46C5-67B1-B6CF5873E752}.wem</CachePath>
 				</File>
+				<File Id="131698730" Language="SFX" Streaming="false" Location="Memory">
+					<ShortName>PoisonGem_Blast-03.wav</ShortName>
+					<CachePath>ED/{EDAE8C29-40C3-DE0A-C7C4-132FC83CAF37}.wem</CachePath>
+				</File>
 				<File Id="133549190" Language="SFX" Streaming="false" Location="Memory">
 					<ShortName>Gem_Recharge.wav</ShortName>
 					<CachePath>30/{30DA033C-B80C-AA6B-CDC3-51A45191A730}.wem</CachePath>
+				</File>
+				<File Id="136269548" Language="SFX" Streaming="false" Location="Memory">
+					<ShortName>PoisonGem_Blast-01.wav</ShortName>
+					<CachePath>15/{15CDAD50-ABD5-9B18-69B0-04DCB0637D70}.wem</CachePath>
 				</File>
 				<File Id="138216516" Language="SFX" Streaming="false" Location="Memory">
 					<ShortName>Teleport.wav</ShortName>
@@ -440,13 +464,61 @@
 					<ShortName>iceball1.wav</ShortName>
 					<CachePath>EF/{EF940627-698D-3466-58FB-E814432EE1AB}.wem</CachePath>
 				</File>
+				<File Id="141265795" Language="SFX" Streaming="false" Location="Memory">
+					<ShortName>explodemini1.wav</ShortName>
+					<CachePath>F9/{F9527EDE-3B10-A6B0-C5DA-622C396C5B7B}.wem</CachePath>
+				</File>
 				<File Id="161951897" Language="SFX" Streaming="false" Location="Memory">
 					<ShortName>Staff_Swing-03.wav</ShortName>
 					<CachePath>4E/{4E7DC13D-BA63-9D1F-598E-38B7C827C19B}.wem</CachePath>
 				</File>
+				<File Id="162814894" Language="SFX" Streaming="false" Location="Memory">
+					<ShortName>painr_1.wav</ShortName>
+					<CachePath>A2/{A2E12F66-C663-405F-374F-543BFB7B7F0C}.wem</CachePath>
+				</File>
+				<File Id="174900365" Language="SFX" Streaming="false" Location="Memory">
+					<ShortName>Footsteps\Tile\FS_Tile_01.wav</ShortName>
+					<CachePath>C9/{C97A7DCE-52F0-67B5-0C57-5BE244641484}.wem</CachePath>
+				</File>
+				<File Id="177584643" Language="SFX" Streaming="false" Location="Memory">
+					<ShortName>Defeated_Bauul.wav</ShortName>
+					<CachePath>4D/{4D7B1287-1FC7-B1F6-96FC-597E57BD7A18}.wem</CachePath>
+				</File>
+				<File Id="187954308" Language="SFX" Streaming="false" Location="Memory">
+					<ShortName>pain2.wav</ShortName>
+					<CachePath>61/{61F1ADBB-386E-4A2B-6321-9988E8D1C68C}.wem</CachePath>
+				</File>
+				<File Id="191505573" Language="SFX" Streaming="false" Location="Memory">
+					<ShortName>Blast.wav</ShortName>
+					<CachePath>DB/{DB81A5AA-24AC-62D6-864E-DAFCDA3A2DBE}.wem</CachePath>
+				</File>
 				<File Id="194966128" Language="SFX" Streaming="false" Location="Memory">
 					<ShortName>Item_Back.wav</ShortName>
 					<CachePath>0A/{0ADC19CF-8E80-C4E6-CC5B-0D68F38F9010}.wem</CachePath>
+				</File>
+				<File Id="210543435" Language="SFX" Streaming="false" Location="Memory">
+					<ShortName>SuperGem_Blast.wav</ShortName>
+					<CachePath>39/{39CEBBA7-C4EF-5731-46B3-548AB56A8B3A}.wem</CachePath>
+				</File>
+				<File Id="214114450" Language="SFX" Streaming="false" Location="Memory">
+					<ShortName>FireGem_Flight.wav</ShortName>
+					<CachePath>58/{5879DF08-2C97-0ABB-2774-39FBA22DF751}.wem</CachePath>
+				</File>
+				<File Id="219044673" Language="SFX" Streaming="false" Location="Memory">
+					<ShortName>Body_Impact.wav</ShortName>
+					<CachePath>A6/{A6139A63-2CE1-EA74-EEF2-9A49BE87398B}.wem</CachePath>
+				</File>
+				<File Id="226244650" Language="SFX" Streaming="false" Location="Memory">
+					<ShortName>paind_3.wav</ShortName>
+					<CachePath>13/{135F4D72-B422-9F8A-5B29-2EFC7A3DE7C3}.wem</CachePath>
+				</File>
+				<File Id="226773859" Language="SFX" Streaming="false" Location="Memory">
+					<ShortName>Defeated_Rhino.wav</ShortName>
+					<CachePath>D8/{D80C47CF-C362-E013-CBD5-67246F4EADC5}.wem</CachePath>
+				</File>
+				<File Id="236827622" Language="SFX" Streaming="false" Location="Memory">
+					<ShortName>Footsteps\Dirt\FS_Dirt_01.wav</ShortName>
+					<CachePath>82/{828E1A11-C1CD-0C03-A7E8-B285A7CA0CC7}.wem</CachePath>
 				</File>
 				<File Id="238926382" Language="SFX" Streaming="false" Location="Memory">
 					<ShortName>LightningGem_Blast-01.wav</ShortName>
@@ -456,13 +528,33 @@
 					<ShortName>Gem_Breaking_Tail-04.wav</ShortName>
 					<CachePath>95/{95A4148C-0119-264F-6B87-A4CF29A9AA30}.wem</CachePath>
 				</File>
+				<File Id="268012413" Language="SFX" Streaming="false" Location="Memory">
+					<ShortName>PoisonGem_Bubble.wav</ShortName>
+					<CachePath>FF/{FF6BC49A-93A0-5D55-6CFA-8EB999245823}.wem</CachePath>
+				</File>
+				<File Id="293990798" Language="SFX" Streaming="false" Location="Memory">
+					<ShortName>Defeated2.wav</ShortName>
+					<CachePath>08/{08763B88-602F-F1DB-EEDD-11E9E67B9CAE}.wem</CachePath>
+				</File>
 				<File Id="295573679" Language="SFX" Streaming="false" Location="Memory">
 					<ShortName>Gem_Breaking_Tail-03.wav</ShortName>
 					<CachePath>EF/{EFA61736-506B-0A4D-D2EE-C287E53BC8C0}.wem</CachePath>
 				</File>
+				<File Id="298386193" Language="SFX" Streaming="false" Location="Memory">
+					<ShortName>rumble.wav</ShortName>
+					<CachePath>75/{75810BDF-9337-4FDA-059C-34861C0EC6A6}.wem</CachePath>
+				</File>
 				<File Id="305468272" Language="SFX" Streaming="false" Location="Memory">
 					<ShortName>Staff_Swing-02.wav</ShortName>
 					<CachePath>78/{78F98A32-25F1-ED21-195B-2B6ACFDE1E9D}.wem</CachePath>
+				</File>
+				<File Id="308946648" Language="SFX" Streaming="false" Location="Memory">
+					<ShortName>Defeated_Knight.wav</ShortName>
+					<CachePath>52/{5294CBE4-60FC-671B-AA1D-D110192A229B}.wem</CachePath>
+				</File>
+				<File Id="331178164" Language="SFX" Streaming="false" Location="Memory">
+					<ShortName>slimeball_1.wav</ShortName>
+					<CachePath>2B/{2BDA6997-EC19-4DEE-CA4D-2D9366056A06}.wem</CachePath>
 				</File>
 				<File Id="332383553" Language="SFX" Streaming="false" Location="Memory">
 					<ShortName>splash1.wav</ShortName>
@@ -472,6 +564,10 @@
 					<ShortName>Footsteps\Concrete\FS_Concrete_03.wav</ShortName>
 					<CachePath>8A/{8A596C98-C476-CE8D-76AA-AAD65A2C22A3}.wem</CachePath>
 				</File>
+				<File Id="346666106" Language="SFX" Streaming="false" Location="Memory">
+					<ShortName>Slimeball_Hit.wav</ShortName>
+					<CachePath>5C/{5CCD0312-03B5-1923-7640-D549649E7B81}.wem</CachePath>
+				</File>
 				<File Id="364203786" Language="SFX" Streaming="false" Location="Memory">
 					<ShortName>Gem_Breaking_Head-01.wav</ShortName>
 					<CachePath>12/{129C2D09-E540-D8F0-A798-413A6B4EEECF}.wem</CachePath>
@@ -480,37 +576,129 @@
 					<ShortName>Wwizard_Armor.wav</ShortName>
 					<CachePath>67/{6712C29E-2134-D2C4-7F60-48F47748BFF2}.wem</CachePath>
 				</File>
+				<File Id="411764063" Language="SFX" Streaming="false" Location="Memory">
+					<ShortName>pain1.wav</ShortName>
+					<CachePath>36/{3630CC0D-39B6-74A9-0A5D-D9482E703CA0}.wem</CachePath>
+				</File>
+				<File Id="413788412" Language="SFX" Streaming="false" Location="Memory">
+					<ShortName>FireGem_Blast-02.wav</ShortName>
+					<CachePath>52/{52E7B41C-D959-9EFB-CEA5-2B4ADB0235A3}.wem</CachePath>
+				</File>
+				<File Id="424141051" Language="SFX" Streaming="false" Location="Memory">
+					<ShortName>painh_3.wav</ShortName>
+					<CachePath>8D/{8D29ED71-DCAD-5734-464E-3A736610CB97}.wem</CachePath>
+				</File>
+				<File Id="435463209" Language="SFX" Streaming="false" Location="Memory">
+					<ShortName>PoisonGem_Blast-02.wav</ShortName>
+					<CachePath>BC/{BC190C9A-6B3D-A897-3671-61E55BF80CA1}.wem</CachePath>
+				</File>
 				<File Id="450169587" Language="SFX" Streaming="false" Location="Memory">
 					<ShortName>Item_Magic.wav</ShortName>
 					<CachePath>F2/{F24E9BA0-E437-2B28-CB20-32D3E199E721}.wem</CachePath>
+				</File>
+				<File Id="479417981" Language="SFX" Streaming="false" Location="Memory">
+					<ShortName>Defeated_Goblin.wav</ShortName>
+					<CachePath>D7/{D7FB8C44-7131-7F5B-10A7-E9922EA8F8A4}.wem</CachePath>
 				</File>
 				<File Id="487738446" Language="SFX" Streaming="false" Location="Memory">
 					<ShortName>SwitchMagic.wav</ShortName>
 					<CachePath>74/{74BAF7CF-49F1-6E34-E691-A6EA3A5AEEC5}.wem</CachePath>
 				</File>
+				<File Id="503509662" Language="SFX" Streaming="false" Location="Memory">
+					<ShortName>explode3.wav</ShortName>
+					<CachePath>2B/{2B1A5EE3-EA22-F754-074A-55A20C123FE6}.wem</CachePath>
+				</File>
 				<File Id="518348916" Language="SFX" Streaming="false" Location="Memory">
 					<ShortName>Gem_Breaking_Head-04.wav</ShortName>
 					<CachePath>17/{17A0A692-A275-63BF-3D3E-893197D5B9BC}.wem</CachePath>
+				</File>
+				<File Id="519329630" Language="SFX" Streaming="false" Location="Memory">
+					<ShortName>explodemini3.wav</ShortName>
+					<CachePath>80/{80757EB9-C179-46C9-703E-8ED09503C9DD}.wem</CachePath>
+				</File>
+				<File Id="519759507" Language="SFX" Streaming="false" Location="Memory">
+					<ShortName>Knight_Foot-01.wav</ShortName>
+					<CachePath>28/{288DEE3B-A664-2A8C-4F0E-E946E3D1C5E6}.wem</CachePath>
+				</File>
+				<File Id="522671429" Language="SFX" Streaming="false" Location="Memory">
+					<ShortName>grunt1.wav</ShortName>
+					<CachePath>E6/{E6EC6417-BFB5-E9D5-C2E8-0FCDD5141388}.wem</CachePath>
 				</File>
 				<File Id="524366369" Language="SFX" Streaming="false" Location="Memory">
 					<ShortName>painp_1.wav</ShortName>
 					<CachePath>DF/{DF24D9D9-71C7-F22F-EBAA-488D45F2EE89}.wem</CachePath>
 				</File>
+				<File Id="525218887" Language="SFX" Streaming="false" Location="Memory">
+					<ShortName>paine_2.wav</ShortName>
+					<CachePath>DF/{DFB1CC3F-113F-D4C5-BD47-759012EF468C}.wem</CachePath>
+				</File>
 				<File Id="526928835" Language="SFX" Streaming="false" Location="Memory">
 					<ShortName>Gem_Breaking_Head-02.wav</ShortName>
 					<CachePath>76/{7652500F-B323-E570-5225-A612CBCAF37A}.wem</CachePath>
+				</File>
+				<File Id="532452342" Language="SFX" Streaming="false" Location="Memory">
+					<ShortName>FireGem_Blast-04.wav</ShortName>
+					<CachePath>C6/{C63B43E2-E939-6C39-E765-7D20C1EE643E}.wem</CachePath>
 				</File>
 				<File Id="534912959" Language="SFX" Streaming="false" Location="Memory">
 					<ShortName>Staff_Swing-04.wav</ShortName>
 					<CachePath>83/{83BEB131-AF41-68D1-5A67-1A12FF208C54}.wem</CachePath>
 				</File>
+				<File Id="547255814" Language="SFX" Streaming="false" Location="Memory">
+					<ShortName>Defeated_Rat.wav</ShortName>
+					<CachePath>8C/{8C2CDF4A-3A30-22B3-AF87-E02CBC3E8D4E}.wem</CachePath>
+				</File>
+				<File Id="552461562" Language="SFX" Streaming="false" Location="Memory">
+					<ShortName>FireGem_Impact-02.wav</ShortName>
+					<CachePath>2D/{2D442669-5983-11EB-764B-D19D8868741B}.wem</CachePath>
+				</File>
+				<File Id="559373282" Language="SFX" Streaming="false" Location="Memory">
+					<ShortName>Knight_Foot-03.wav</ShortName>
+					<CachePath>BF/{BF00ADA1-4FCB-12C8-14E2-3AD7075B426D}.wem</CachePath>
+				</File>
 				<File Id="570066150" Language="SFX" Streaming="false" Location="Memory">
 					<ShortName>Staff_Swing-01.wav</ShortName>
 					<CachePath>6D/{6D4764DE-4486-0578-EB5B-ABFE1AE9052A}.wem</CachePath>
 				</File>
+				<File Id="575800854" Language="SFX" Streaming="false" Location="Memory">
+					<ShortName>painb_2.wav</ShortName>
+					<CachePath>A7/{A7201AA9-8DB0-0ECC-6B89-78BE191C61B5}.wem</CachePath>
+				</File>
+				<File Id="577955928" Language="SFX" Streaming="false" Location="Memory">
+					<ShortName>Footsteps\Tile\FS_Tile_02.wav</ShortName>
+					<CachePath>8A/{8A517189-89E5-9C76-9DD6-ADBF55DC5036}.wem</CachePath>
+				</File>
+				<File Id="599154377" Language="SFX" Streaming="false" Location="Memory">
+					<ShortName>FireGem_Blast-03.wav</ShortName>
+					<CachePath>7B/{7B6BCD62-6A6E-A06E-6E1F-1AB2501CBFB1}.wem</CachePath>
+				</File>
+				<File Id="600445228" Language="SFX" Streaming="false" Location="Memory">
+					<ShortName>Footsteps\Dirt\FS_Dirt_03.wav</ShortName>
+					<CachePath>31/{31345EB9-CD4C-BCB1-8FC4-E6841C473384}.wem</CachePath>
+				</File>
+				<File Id="610913128" Language="SFX" Streaming="false" Location="Memory">
+					<ShortName>FireGem_Impact-01.wav</ShortName>
+					<CachePath>4A/{4A52BDF4-D921-B7FE-AA56-3691D509735F}.wem</CachePath>
+				</File>
 				<File Id="620009095" Language="SFX" Streaming="false" Location="Memory">
 					<ShortName>painp_3.wav</ShortName>
 					<CachePath>C3/{C3B6CC22-A761-499F-268F-367A2C6AA824}.wem</CachePath>
+				</File>
+				<File Id="620567497" Language="SFX" Streaming="false" Location="Memory">
+					<ShortName>FireGem_Blast-01.wav</ShortName>
+					<CachePath>FE/{FE03D88C-BFFE-BB97-2551-0CBC2999283E}.wem</CachePath>
+				</File>
+				<File Id="647131193" Language="SFX" Streaming="false" Location="Memory">
+					<ShortName>Footsteps\Dirt\FS_Dirt_02.wav</ShortName>
+					<CachePath>7D/{7DE364C6-D10A-FEFE-9907-F5106C8E8521}.wem</CachePath>
+				</File>
+				<File Id="647525261" Language="SFX" Streaming="false" Location="Memory">
+					<ShortName>Footsteps\Tile\FS_Tile_03.wav</ShortName>
+					<CachePath>BC/{BC1F9C8F-888F-F8DD-F475-825D52FFF306}.wem</CachePath>
+				</File>
+				<File Id="661668266" Language="SFX" Streaming="false" Location="Memory">
+					<ShortName>explode2.wav</ShortName>
+					<CachePath>1E/{1EF45B62-15A1-B4B4-BA3E-E7BF5B67C2E1}.wem</CachePath>
 				</File>
 				<File Id="664141788" Language="SFX" Streaming="false" Location="Memory">
 					<ShortName>Gem_Breaking_Head-03.wav</ShortName>
@@ -520,9 +708,33 @@
 					<ShortName>Under_Water.wav</ShortName>
 					<CachePath>6C/{6C7AD8CA-E6E4-EC23-3EAC-D03662450A5E}.wem</CachePath>
 				</File>
+				<File Id="675351052" Language="SFX" Streaming="false" Location="Memory">
+					<ShortName>jump_1.wav</ShortName>
+					<CachePath>1A/{1A57B890-7955-E74F-EFCC-F0126DF1F8B0}.wem</CachePath>
+				</File>
+				<File Id="709207210" Language="SFX" Streaming="false" Location="Memory">
+					<ShortName>jump_2.wav</ShortName>
+					<CachePath>B9/{B941047E-2FD7-2068-A9CE-921504E213EE}.wem</CachePath>
+				</File>
+				<File Id="715743738" Language="SFX" Streaming="false" Location="Memory">
+					<ShortName>painr_2.wav</ShortName>
+					<CachePath>0D/{0D4889A1-0A74-7A14-E962-B6179148654F}.wem</CachePath>
+				</File>
+				<File Id="718340244" Language="SFX" Streaming="false" Location="Memory">
+					<ShortName>SuperGem_Pickup.wav</ShortName>
+					<CachePath>DA/{DA13A02E-B960-266E-9AA1-0B7EA48F8048}.wem</CachePath>
+				</File>
+				<File Id="732682417" Language="SFX" Streaming="false" Location="Memory">
+					<ShortName>FireBall_Monster-01.wav</ShortName>
+					<CachePath>34/{341CB878-1731-DE01-F347-609B8284DFF8}.wem</CachePath>
+				</File>
 				<File Id="737964251" Language="SFX" Streaming="false" Location="Memory">
 					<ShortName>piggrunt1.wav</ShortName>
 					<CachePath>D0/{D09D9D3E-A3ED-F7E2-02AD-676009113A38}.wem</CachePath>
+				</File>
+				<File Id="738953253" Language="SFX" Streaming="false" Location="Memory">
+					<ShortName>pain3.wav</ShortName>
+					<CachePath>59/{59C72952-C36B-8D08-9620-9D3435B9F110}.wem</CachePath>
 				</File>
 				<File Id="742178792" Language="SFX" Streaming="false" Location="Memory">
 					<ShortName>Footsteps\Concrete\FS_Concrete_01.wav</ShortName>
@@ -532,9 +744,17 @@
 					<ShortName>iceball2.wav</ShortName>
 					<CachePath>A9/{A9DC3519-8EDF-C932-BFFF-A7041B66EAC2}.wem</CachePath>
 				</File>
+				<File Id="780687024" Language="SFX" Streaming="false" Location="Memory">
+					<ShortName>Magic_Gems.wav</ShortName>
+					<CachePath>67/{67E74A23-A051-AC11-033C-0391BA383A23}.wem</CachePath>
+				</File>
 				<File Id="796997044" Language="SFX" Streaming="false" Location="Memory">
 					<ShortName>Gem_Recharge.wav</ShortName>
 					<CachePath>F2/{F2A95814-AC37-AAAC-55C2-00852E5199FD}.wem</CachePath>
+				</File>
+				<File Id="836247730" Language="SFX" Streaming="false" Location="Memory">
+					<ShortName>NO_NO.wav</ShortName>
+					<CachePath>9F/{9FB4E1DD-3EBE-5155-5226-0811C72A1A41}.wem</CachePath>
 				</File>
 				<File Id="837212226" Language="SFX" Streaming="false" Location="Memory">
 					<ShortName>Teleporter.wav</ShortName>
@@ -544,13 +764,49 @@
 					<ShortName>LightningGem_Blast-02.wav</ShortName>
 					<CachePath>9C/{9C795292-7428-BE1F-41D9-755917791AEB}.wem</CachePath>
 				</File>
+				<File Id="858495136" Language="SFX" Streaming="false" Location="Memory">
+					<ShortName>paino_1.wav</ShortName>
+					<CachePath>7A/{7AA87F47-2838-F034-D86A-6A137B3FA4A8}.wem</CachePath>
+				</File>
 				<File Id="859910549" Language="SFX" Streaming="false" Location="Memory">
 					<ShortName>Footsteps\Gravel\FS_Gravel_01.wav</ShortName>
 					<CachePath>7E/{7EE12549-37E9-A87B-EC35-3C5145F3967C}.wem</CachePath>
 				</File>
+				<File Id="863063982" Language="SFX" Streaming="false" Location="Memory">
+					<ShortName>jump_3.wav</ShortName>
+					<CachePath>33/{33935D80-143A-2790-27EC-7EFD77D1C97E}.wem</CachePath>
+				</File>
+				<File Id="920964299" Language="SFX" Streaming="false" Location="Memory">
+					<ShortName>explodemini2.wav</ShortName>
+					<CachePath>84/{846262AF-4720-40E4-145E-4589E0D9FFD6}.wem</CachePath>
+				</File>
+				<File Id="924393447" Language="SFX" Streaming="false" Location="Memory">
+					<ShortName>Knight_Foot-02.wav</ShortName>
+					<CachePath>5A/{5A14FC22-17BA-9D0F-EB2C-8EFECA82FF64}.wem</CachePath>
+				</File>
+				<File Id="938305357" Language="SFX" Streaming="false" Location="Memory">
+					<ShortName>FireBall_Monster-02.wav</ShortName>
+					<CachePath>88/{884C17D1-66C5-F375-7FE5-73F8240D4268}.wem</CachePath>
+				</File>
+				<File Id="944893494" Language="SFX" Streaming="false" Location="Memory">
+					<ShortName>paino_2.wav</ShortName>
+					<CachePath>93/{93B8A409-32A2-0404-5C4F-59B94DAA2BC2}.wem</CachePath>
+				</File>
 				<File Id="954216284" Language="SFX" Streaming="false" Location="Memory">
 					<ShortName>Launch_Pad.wav</ShortName>
 					<CachePath>72/{72DE00F2-F552-020F-6E9F-F195AA2147E2}.wem</CachePath>
+				</File>
+				<File Id="960411571" Language="SFX" Streaming="false" Location="Memory">
+					<ShortName>Monster_Spawn.wav</ShortName>
+					<CachePath>CA/{CAB264C0-5B72-53CD-9A36-D99E30BB15E2}.wem</CachePath>
+				</File>
+				<File Id="972453077" Language="SFX" Streaming="false" Location="Memory">
+					<ShortName>Defeated1.wav</ShortName>
+					<CachePath>E2/{E291D849-CA03-90D5-1AAA-2DFD2970D018}.wem</CachePath>
+				</File>
+				<File Id="982893105" Language="SFX" Streaming="false" Location="Memory">
+					<ShortName>painb.wav</ShortName>
+					<CachePath>8F/{8FB126E8-CBD6-60CE-BEFB-37C7E3456683}.wem</CachePath>
 				</File>
 				<File Id="985990886" Language="SFX" Streaming="false" Location="Memory">
 					<ShortName>Gem_Breaking_Tail-01.wav</ShortName>
@@ -559,6 +815,26 @@
 				<File Id="1015190561" Language="SFX" Streaming="false" Location="Memory">
 					<ShortName>Footsteps\Gravel\FS_Gravel_03.wav</ShortName>
 					<CachePath>22/{22C551C7-9F87-483F-3533-F35940253CF0}.wem</CachePath>
+				</File>
+				<File Id="1024619699" Language="SFX" Streaming="false" Location="Memory">
+					<ShortName>Defeated_Slith.wav</ShortName>
+					<CachePath>16/{16848030-9AD8-F980-244C-EDF515913E57}.wem</CachePath>
+				</File>
+				<File Id="1024935706" Language="SFX" Streaming="false" Location="Memory">
+					<ShortName>paine_1.wav</ShortName>
+					<CachePath>FE/{FE1A0B79-1E07-BD2E-52C8-754F5833220F}.wem</CachePath>
+				</File>
+				<File Id="1038750599" Language="SFX" Streaming="false" Location="Memory">
+					<ShortName>slimeball_2.wav</ShortName>
+					<CachePath>D9/{D9AC94C2-2E54-1D3F-80A8-3EA9D055DD8F}.wem</CachePath>
+				</File>
+				<File Id="1039211944" Language="SFX" Streaming="false" Location="Memory">
+					<ShortName>land.wav</ShortName>
+					<CachePath>65/{650C9B26-6C3C-8364-3B1B-6BA2B746D88D}.wem</CachePath>
+				</File>
+				<File Id="1071749337" Language="SFX" Streaming="false" Location="Memory">
+					<ShortName>IceGem_Blast.wav</ShortName>
+					<CachePath>21/{215359BB-91F1-49FC-37E2-6593D8A360D3}.wem</CachePath>
 				</File>
 			</Media>
 			<Plugins>
@@ -571,23 +847,55 @@
 				</Custom>
 			</Plugins>
 			<Events>
-				<Event Id="1922349781" Name="Defeated_Bauul"/>
-				<Event Id="375266055" Name="Defeated_Goblin"/>
+				<Event Id="1922349781" Name="Defeated_Bauul">
+					<MediaRefs>
+						<MediaRef Id="177584643"/>
+					</MediaRefs>
+				</Event>
+				<Event Id="375266055" Name="Defeated_Goblin">
+					<MediaRefs>
+						<MediaRef Id="479417981"/>
+					</MediaRefs>
+				</Event>
 				<Event Id="3507659693" Name="Defeated_Hellpig">
 					<MediaRefs>
 						<MediaRef Id="524366369"/>
 					</MediaRefs>
 				</Event>
-				<Event Id="1542346421" Name="Defeated_Knight"/>
-				<Event Id="427908151" Name="Defeated_Ogre"/>
+				<Event Id="1542346421" Name="Defeated_Knight">
+					<MediaRefs>
+						<MediaRef Id="308946648"/>
+					</MediaRefs>
+				</Event>
+				<Event Id="427908151" Name="Defeated_Ogre">
+					<MediaRefs>
+						<MediaRef Id="1024619699"/>
+					</MediaRefs>
+				</Event>
 				<Event Id="3682968165" Name="Defeated_Player">
+					<MediaRefs>
+						<MediaRef Id="293990798"/>
+						<MediaRef Id="972453077"/>
+					</MediaRefs>
 					<ActionSetState>
 						<ActionSetStateEntry GroupId="444815956" Id="2791675679" Name="Defeated"/>
 					</ActionSetState>
 				</Event>
-				<Event Id="3952911171" Name="Defeated_Rat"/>
-				<Event Id="1278524204" Name="Defeated_Rhino"/>
-				<Event Id="908277812" Name="Defeated_Slith"/>
+				<Event Id="3952911171" Name="Defeated_Rat">
+					<MediaRefs>
+						<MediaRef Id="547255814"/>
+					</MediaRefs>
+				</Event>
+				<Event Id="1278524204" Name="Defeated_Rhino">
+					<MediaRefs>
+						<MediaRef Id="226773859"/>
+					</MediaRefs>
+				</Event>
+				<Event Id="908277812" Name="Defeated_Slith">
+					<MediaRefs>
+						<MediaRef Id="1024619699"/>
+					</MediaRefs>
+				</Event>
 				<Event Id="4214542295" Name="End_Fireball_Monster">
 					<PluginRefs>
 						<Custom>
@@ -615,17 +923,39 @@
 						<MediaRef Id="737964251"/>
 					</MediaRefs>
 				</Event>
-				<Event Id="157654016" Name="Fire_Fireball_Monster"/>
-				<Event Id="2460807274" Name="Fire_FireGem_Monster"/>
+				<Event Id="157654016" Name="Fire_Fireball_Monster">
+					<MediaRefs>
+						<MediaRef Id="732682417"/>
+						<MediaRef Id="938305357"/>
+					</MediaRefs>
+				</Event>
+				<Event Id="2460807274" Name="Fire_FireGem_Monster">
+					<MediaRefs>
+						<MediaRef Id="28283556"/>
+						<MediaRef Id="214114450"/>
+						<MediaRef Id="413788412"/>
+						<MediaRef Id="532452342"/>
+						<MediaRef Id="599154377"/>
+						<MediaRef Id="620567497"/>
+					</MediaRefs>
+				</Event>
 				<Event Id="3954861711" Name="Fire_FireGem_Player">
 					<MediaRefs>
+						<MediaRef Id="28283556"/>
 						<MediaRef Id="48241651"/>
+						<MediaRef Id="133549190"/>
+						<MediaRef Id="214114450"/>
 						<MediaRef Id="255792907"/>
 						<MediaRef Id="295573679"/>
 						<MediaRef Id="364203786"/>
+						<MediaRef Id="413788412"/>
 						<MediaRef Id="518348916"/>
 						<MediaRef Id="526928835"/>
+						<MediaRef Id="532452342"/>
+						<MediaRef Id="599154377"/>
+						<MediaRef Id="620567497"/>
 						<MediaRef Id="664141788"/>
+						<MediaRef Id="796997044"/>
 						<MediaRef Id="985990886"/>
 					</MediaRefs>
 					<PluginRefs>
@@ -640,17 +970,24 @@
 						<MediaRef Id="758758935"/>
 					</MediaRefs>
 				</Event>
-				<Event Id="2117476293" Name="Fire_IceGem_Monster"/>
+				<Event Id="2117476293" Name="Fire_IceGem_Monster">
+					<MediaRefs>
+						<MediaRef Id="1071749337"/>
+					</MediaRefs>
+				</Event>
 				<Event Id="2390793602" Name="Fire_IceGem_Player">
 					<MediaRefs>
 						<MediaRef Id="48241651"/>
+						<MediaRef Id="133549190"/>
 						<MediaRef Id="255792907"/>
 						<MediaRef Id="295573679"/>
 						<MediaRef Id="364203786"/>
 						<MediaRef Id="518348916"/>
 						<MediaRef Id="526928835"/>
 						<MediaRef Id="664141788"/>
+						<MediaRef Id="796997044"/>
 						<MediaRef Id="985990886"/>
+						<MediaRef Id="1071749337"/>
 					</MediaRefs>
 					<PluginRefs>
 						<Custom>
@@ -685,9 +1022,27 @@
 						</Custom>
 					</PluginRefs>
 				</Event>
-				<Event Id="4290568846" Name="Fire_PoisonGem_Monster"/>
-				<Event Id="1620107411" Name="Fire_PoisonGem_Player"/>
-				<Event Id="199291532" Name="Fire_Slimeball_Monster"/>
+				<Event Id="4290568846" Name="Fire_PoisonGem_Monster">
+					<MediaRefs>
+						<MediaRef Id="131698730"/>
+						<MediaRef Id="136269548"/>
+						<MediaRef Id="435463209"/>
+					</MediaRefs>
+				</Event>
+				<Event Id="1620107411" Name="Fire_PoisonGem_Player">
+					<MediaRefs>
+						<MediaRef Id="131698730"/>
+						<MediaRef Id="136269548"/>
+						<MediaRef Id="268012413"/>
+						<MediaRef Id="435463209"/>
+					</MediaRefs>
+				</Event>
+				<Event Id="199291532" Name="Fire_Slimeball_Monster">
+					<MediaRefs>
+						<MediaRef Id="331178164"/>
+						<MediaRef Id="1038750599"/>
+					</MediaRefs>
+				</Event>
 				<Event Id="2484024762" Name="Fire_Staff_Player">
 					<MediaRefs>
 						<MediaRef Id="161951897"/>
@@ -697,6 +1052,9 @@
 					</MediaRefs>
 				</Event>
 				<Event Id="2677919691" Name="Foot_Bauul">
+					<MediaRefs>
+						<MediaRef Id="519329630"/>
+					</MediaRefs>
 					<SwitchContainers>
 						<SwitchContainer>
 							<SwitchValue GroupType="Switch" GroupId="3865314626" Id="2185786256"/>
@@ -715,6 +1073,38 @@
 							</MediaRefs>
 						</SwitchContainer>
 						<SwitchContainer>
+							<SwitchValue GroupType="Switch" GroupId="3865314626" Id="2637588553"/>
+							<MediaRefs>
+								<MediaRef Id="174900365"/>
+								<MediaRef Id="577955928"/>
+								<MediaRef Id="647525261"/>
+							</MediaRefs>
+						</SwitchContainer>
+						<SwitchContainer>
+							<SwitchValue GroupType="Switch" GroupId="3865314626" Id="2058049674"/>
+							<MediaRefs>
+								<MediaRef Id="174900365"/>
+								<MediaRef Id="577955928"/>
+								<MediaRef Id="647525261"/>
+							</MediaRefs>
+						</SwitchContainer>
+						<SwitchContainer>
+							<SwitchValue GroupType="Switch" GroupId="3865314626" Id="803837735"/>
+							<MediaRefs>
+								<MediaRef Id="236827622"/>
+								<MediaRef Id="600445228"/>
+								<MediaRef Id="647131193"/>
+							</MediaRefs>
+						</SwitchContainer>
+						<SwitchContainer>
+							<SwitchValue GroupType="Switch" GroupId="3865314626" Id="2654748154"/>
+							<MediaRefs>
+								<MediaRef Id="236827622"/>
+								<MediaRef Id="600445228"/>
+								<MediaRef Id="647131193"/>
+							</MediaRefs>
+						</SwitchContainer>
+						<SwitchContainer>
 							<SwitchValue GroupType="Switch" GroupId="3865314626" Id="4248645337"/>
 							<MediaRefs>
 								<MediaRef Id="115149825"/>
@@ -728,6 +1118,14 @@
 								<MediaRef Id="13511360"/>
 								<MediaRef Id="346043831"/>
 								<MediaRef Id="742178792"/>
+							</MediaRefs>
+						</SwitchContainer>
+						<SwitchContainer>
+							<SwitchValue GroupType="Switch" GroupId="3865314626" Id="2473969246"/>
+							<MediaRefs>
+								<MediaRef Id="174900365"/>
+								<MediaRef Id="577955928"/>
+								<MediaRef Id="647525261"/>
 							</MediaRefs>
 						</SwitchContainer>
 					</SwitchContainers>
@@ -751,6 +1149,38 @@
 							</MediaRefs>
 						</SwitchContainer>
 						<SwitchContainer>
+							<SwitchValue GroupType="Switch" GroupId="3865314626" Id="2637588553"/>
+							<MediaRefs>
+								<MediaRef Id="174900365"/>
+								<MediaRef Id="577955928"/>
+								<MediaRef Id="647525261"/>
+							</MediaRefs>
+						</SwitchContainer>
+						<SwitchContainer>
+							<SwitchValue GroupType="Switch" GroupId="3865314626" Id="2058049674"/>
+							<MediaRefs>
+								<MediaRef Id="174900365"/>
+								<MediaRef Id="577955928"/>
+								<MediaRef Id="647525261"/>
+							</MediaRefs>
+						</SwitchContainer>
+						<SwitchContainer>
+							<SwitchValue GroupType="Switch" GroupId="3865314626" Id="803837735"/>
+							<MediaRefs>
+								<MediaRef Id="236827622"/>
+								<MediaRef Id="600445228"/>
+								<MediaRef Id="647131193"/>
+							</MediaRefs>
+						</SwitchContainer>
+						<SwitchContainer>
+							<SwitchValue GroupType="Switch" GroupId="3865314626" Id="2654748154"/>
+							<MediaRefs>
+								<MediaRef Id="236827622"/>
+								<MediaRef Id="600445228"/>
+								<MediaRef Id="647131193"/>
+							</MediaRefs>
+						</SwitchContainer>
+						<SwitchContainer>
 							<SwitchValue GroupType="Switch" GroupId="3865314626" Id="4248645337"/>
 							<MediaRefs>
 								<MediaRef Id="115149825"/>
@@ -764,6 +1194,14 @@
 								<MediaRef Id="13511360"/>
 								<MediaRef Id="346043831"/>
 								<MediaRef Id="742178792"/>
+							</MediaRefs>
+						</SwitchContainer>
+						<SwitchContainer>
+							<SwitchValue GroupType="Switch" GroupId="3865314626" Id="2473969246"/>
+							<MediaRefs>
+								<MediaRef Id="174900365"/>
+								<MediaRef Id="577955928"/>
+								<MediaRef Id="647525261"/>
 							</MediaRefs>
 						</SwitchContainer>
 					</SwitchContainers>
@@ -787,6 +1225,38 @@
 							</MediaRefs>
 						</SwitchContainer>
 						<SwitchContainer>
+							<SwitchValue GroupType="Switch" GroupId="3865314626" Id="2637588553"/>
+							<MediaRefs>
+								<MediaRef Id="174900365"/>
+								<MediaRef Id="577955928"/>
+								<MediaRef Id="647525261"/>
+							</MediaRefs>
+						</SwitchContainer>
+						<SwitchContainer>
+							<SwitchValue GroupType="Switch" GroupId="3865314626" Id="2058049674"/>
+							<MediaRefs>
+								<MediaRef Id="174900365"/>
+								<MediaRef Id="577955928"/>
+								<MediaRef Id="647525261"/>
+							</MediaRefs>
+						</SwitchContainer>
+						<SwitchContainer>
+							<SwitchValue GroupType="Switch" GroupId="3865314626" Id="803837735"/>
+							<MediaRefs>
+								<MediaRef Id="236827622"/>
+								<MediaRef Id="600445228"/>
+								<MediaRef Id="647131193"/>
+							</MediaRefs>
+						</SwitchContainer>
+						<SwitchContainer>
+							<SwitchValue GroupType="Switch" GroupId="3865314626" Id="2654748154"/>
+							<MediaRefs>
+								<MediaRef Id="236827622"/>
+								<MediaRef Id="600445228"/>
+								<MediaRef Id="647131193"/>
+							</MediaRefs>
+						</SwitchContainer>
+						<SwitchContainer>
 							<SwitchValue GroupType="Switch" GroupId="3865314626" Id="4248645337"/>
 							<MediaRefs>
 								<MediaRef Id="115149825"/>
@@ -802,9 +1272,22 @@
 								<MediaRef Id="742178792"/>
 							</MediaRefs>
 						</SwitchContainer>
+						<SwitchContainer>
+							<SwitchValue GroupType="Switch" GroupId="3865314626" Id="2473969246"/>
+							<MediaRefs>
+								<MediaRef Id="174900365"/>
+								<MediaRef Id="577955928"/>
+								<MediaRef Id="647525261"/>
+							</MediaRefs>
+						</SwitchContainer>
 					</SwitchContainers>
 				</Event>
 				<Event Id="2052767559" Name="Foot_Knight">
+					<MediaRefs>
+						<MediaRef Id="519759507"/>
+						<MediaRef Id="559373282"/>
+						<MediaRef Id="924393447"/>
+					</MediaRefs>
 					<SwitchContainers>
 						<SwitchContainer>
 							<SwitchValue GroupType="Switch" GroupId="3865314626" Id="2185786256"/>
@@ -823,6 +1306,38 @@
 							</MediaRefs>
 						</SwitchContainer>
 						<SwitchContainer>
+							<SwitchValue GroupType="Switch" GroupId="3865314626" Id="2637588553"/>
+							<MediaRefs>
+								<MediaRef Id="174900365"/>
+								<MediaRef Id="577955928"/>
+								<MediaRef Id="647525261"/>
+							</MediaRefs>
+						</SwitchContainer>
+						<SwitchContainer>
+							<SwitchValue GroupType="Switch" GroupId="3865314626" Id="2058049674"/>
+							<MediaRefs>
+								<MediaRef Id="174900365"/>
+								<MediaRef Id="577955928"/>
+								<MediaRef Id="647525261"/>
+							</MediaRefs>
+						</SwitchContainer>
+						<SwitchContainer>
+							<SwitchValue GroupType="Switch" GroupId="3865314626" Id="803837735"/>
+							<MediaRefs>
+								<MediaRef Id="236827622"/>
+								<MediaRef Id="600445228"/>
+								<MediaRef Id="647131193"/>
+							</MediaRefs>
+						</SwitchContainer>
+						<SwitchContainer>
+							<SwitchValue GroupType="Switch" GroupId="3865314626" Id="2654748154"/>
+							<MediaRefs>
+								<MediaRef Id="236827622"/>
+								<MediaRef Id="600445228"/>
+								<MediaRef Id="647131193"/>
+							</MediaRefs>
+						</SwitchContainer>
+						<SwitchContainer>
 							<SwitchValue GroupType="Switch" GroupId="3865314626" Id="4248645337"/>
 							<MediaRefs>
 								<MediaRef Id="115149825"/>
@@ -836,6 +1351,14 @@
 								<MediaRef Id="13511360"/>
 								<MediaRef Id="346043831"/>
 								<MediaRef Id="742178792"/>
+							</MediaRefs>
+						</SwitchContainer>
+						<SwitchContainer>
+							<SwitchValue GroupType="Switch" GroupId="3865314626" Id="2473969246"/>
+							<MediaRefs>
+								<MediaRef Id="174900365"/>
+								<MediaRef Id="577955928"/>
+								<MediaRef Id="647525261"/>
 							</MediaRefs>
 						</SwitchContainer>
 					</SwitchContainers>
@@ -859,6 +1382,38 @@
 							</MediaRefs>
 						</SwitchContainer>
 						<SwitchContainer>
+							<SwitchValue GroupType="Switch" GroupId="3865314626" Id="2637588553"/>
+							<MediaRefs>
+								<MediaRef Id="174900365"/>
+								<MediaRef Id="577955928"/>
+								<MediaRef Id="647525261"/>
+							</MediaRefs>
+						</SwitchContainer>
+						<SwitchContainer>
+							<SwitchValue GroupType="Switch" GroupId="3865314626" Id="2058049674"/>
+							<MediaRefs>
+								<MediaRef Id="174900365"/>
+								<MediaRef Id="577955928"/>
+								<MediaRef Id="647525261"/>
+							</MediaRefs>
+						</SwitchContainer>
+						<SwitchContainer>
+							<SwitchValue GroupType="Switch" GroupId="3865314626" Id="803837735"/>
+							<MediaRefs>
+								<MediaRef Id="236827622"/>
+								<MediaRef Id="600445228"/>
+								<MediaRef Id="647131193"/>
+							</MediaRefs>
+						</SwitchContainer>
+						<SwitchContainer>
+							<SwitchValue GroupType="Switch" GroupId="3865314626" Id="2654748154"/>
+							<MediaRefs>
+								<MediaRef Id="236827622"/>
+								<MediaRef Id="600445228"/>
+								<MediaRef Id="647131193"/>
+							</MediaRefs>
+						</SwitchContainer>
+						<SwitchContainer>
 							<SwitchValue GroupType="Switch" GroupId="3865314626" Id="4248645337"/>
 							<MediaRefs>
 								<MediaRef Id="115149825"/>
@@ -872,6 +1427,14 @@
 								<MediaRef Id="13511360"/>
 								<MediaRef Id="346043831"/>
 								<MediaRef Id="742178792"/>
+							</MediaRefs>
+						</SwitchContainer>
+						<SwitchContainer>
+							<SwitchValue GroupType="Switch" GroupId="3865314626" Id="2473969246"/>
+							<MediaRefs>
+								<MediaRef Id="174900365"/>
+								<MediaRef Id="577955928"/>
+								<MediaRef Id="647525261"/>
 							</MediaRefs>
 						</SwitchContainer>
 					</SwitchContainers>
@@ -895,6 +1458,38 @@
 							</MediaRefs>
 						</SwitchContainer>
 						<SwitchContainer>
+							<SwitchValue GroupType="Switch" GroupId="3865314626" Id="2637588553"/>
+							<MediaRefs>
+								<MediaRef Id="174900365"/>
+								<MediaRef Id="577955928"/>
+								<MediaRef Id="647525261"/>
+							</MediaRefs>
+						</SwitchContainer>
+						<SwitchContainer>
+							<SwitchValue GroupType="Switch" GroupId="3865314626" Id="2058049674"/>
+							<MediaRefs>
+								<MediaRef Id="174900365"/>
+								<MediaRef Id="577955928"/>
+								<MediaRef Id="647525261"/>
+							</MediaRefs>
+						</SwitchContainer>
+						<SwitchContainer>
+							<SwitchValue GroupType="Switch" GroupId="3865314626" Id="803837735"/>
+							<MediaRefs>
+								<MediaRef Id="236827622"/>
+								<MediaRef Id="600445228"/>
+								<MediaRef Id="647131193"/>
+							</MediaRefs>
+						</SwitchContainer>
+						<SwitchContainer>
+							<SwitchValue GroupType="Switch" GroupId="3865314626" Id="2654748154"/>
+							<MediaRefs>
+								<MediaRef Id="236827622"/>
+								<MediaRef Id="600445228"/>
+								<MediaRef Id="647131193"/>
+							</MediaRefs>
+						</SwitchContainer>
+						<SwitchContainer>
 							<SwitchValue GroupType="Switch" GroupId="3865314626" Id="4248645337"/>
 							<MediaRefs>
 								<MediaRef Id="115149825"/>
@@ -908,6 +1503,14 @@
 								<MediaRef Id="13511360"/>
 								<MediaRef Id="346043831"/>
 								<MediaRef Id="742178792"/>
+							</MediaRefs>
+						</SwitchContainer>
+						<SwitchContainer>
+							<SwitchValue GroupType="Switch" GroupId="3865314626" Id="2473969246"/>
+							<MediaRefs>
+								<MediaRef Id="174900365"/>
+								<MediaRef Id="577955928"/>
+								<MediaRef Id="647525261"/>
 							</MediaRefs>
 						</SwitchContainer>
 					</SwitchContainers>
@@ -931,6 +1534,38 @@
 							</MediaRefs>
 						</SwitchContainer>
 						<SwitchContainer>
+							<SwitchValue GroupType="Switch" GroupId="3865314626" Id="2637588553"/>
+							<MediaRefs>
+								<MediaRef Id="174900365"/>
+								<MediaRef Id="577955928"/>
+								<MediaRef Id="647525261"/>
+							</MediaRefs>
+						</SwitchContainer>
+						<SwitchContainer>
+							<SwitchValue GroupType="Switch" GroupId="3865314626" Id="2058049674"/>
+							<MediaRefs>
+								<MediaRef Id="174900365"/>
+								<MediaRef Id="577955928"/>
+								<MediaRef Id="647525261"/>
+							</MediaRefs>
+						</SwitchContainer>
+						<SwitchContainer>
+							<SwitchValue GroupType="Switch" GroupId="3865314626" Id="803837735"/>
+							<MediaRefs>
+								<MediaRef Id="236827622"/>
+								<MediaRef Id="600445228"/>
+								<MediaRef Id="647131193"/>
+							</MediaRefs>
+						</SwitchContainer>
+						<SwitchContainer>
+							<SwitchValue GroupType="Switch" GroupId="3865314626" Id="2654748154"/>
+							<MediaRefs>
+								<MediaRef Id="236827622"/>
+								<MediaRef Id="600445228"/>
+								<MediaRef Id="647131193"/>
+							</MediaRefs>
+						</SwitchContainer>
+						<SwitchContainer>
 							<SwitchValue GroupType="Switch" GroupId="3865314626" Id="4248645337"/>
 							<MediaRefs>
 								<MediaRef Id="115149825"/>
@@ -944,6 +1579,14 @@
 								<MediaRef Id="13511360"/>
 								<MediaRef Id="346043831"/>
 								<MediaRef Id="742178792"/>
+							</MediaRefs>
+						</SwitchContainer>
+						<SwitchContainer>
+							<SwitchValue GroupType="Switch" GroupId="3865314626" Id="2473969246"/>
+							<MediaRefs>
+								<MediaRef Id="174900365"/>
+								<MediaRef Id="577955928"/>
+								<MediaRef Id="647525261"/>
 							</MediaRefs>
 						</SwitchContainer>
 					</SwitchContainers>
@@ -967,6 +1610,38 @@
 							</MediaRefs>
 						</SwitchContainer>
 						<SwitchContainer>
+							<SwitchValue GroupType="Switch" GroupId="3865314626" Id="2637588553"/>
+							<MediaRefs>
+								<MediaRef Id="174900365"/>
+								<MediaRef Id="577955928"/>
+								<MediaRef Id="647525261"/>
+							</MediaRefs>
+						</SwitchContainer>
+						<SwitchContainer>
+							<SwitchValue GroupType="Switch" GroupId="3865314626" Id="2058049674"/>
+							<MediaRefs>
+								<MediaRef Id="174900365"/>
+								<MediaRef Id="577955928"/>
+								<MediaRef Id="647525261"/>
+							</MediaRefs>
+						</SwitchContainer>
+						<SwitchContainer>
+							<SwitchValue GroupType="Switch" GroupId="3865314626" Id="803837735"/>
+							<MediaRefs>
+								<MediaRef Id="236827622"/>
+								<MediaRef Id="600445228"/>
+								<MediaRef Id="647131193"/>
+							</MediaRefs>
+						</SwitchContainer>
+						<SwitchContainer>
+							<SwitchValue GroupType="Switch" GroupId="3865314626" Id="2654748154"/>
+							<MediaRefs>
+								<MediaRef Id="236827622"/>
+								<MediaRef Id="600445228"/>
+								<MediaRef Id="647131193"/>
+							</MediaRefs>
+						</SwitchContainer>
+						<SwitchContainer>
 							<SwitchValue GroupType="Switch" GroupId="3865314626" Id="4248645337"/>
 							<MediaRefs>
 								<MediaRef Id="115149825"/>
@@ -980,6 +1655,14 @@
 								<MediaRef Id="13511360"/>
 								<MediaRef Id="346043831"/>
 								<MediaRef Id="742178792"/>
+							</MediaRefs>
+						</SwitchContainer>
+						<SwitchContainer>
+							<SwitchValue GroupType="Switch" GroupId="3865314626" Id="2473969246"/>
+							<MediaRefs>
+								<MediaRef Id="174900365"/>
+								<MediaRef Id="577955928"/>
+								<MediaRef Id="647525261"/>
 							</MediaRefs>
 						</SwitchContainer>
 					</SwitchContainers>
@@ -1003,6 +1686,38 @@
 							</MediaRefs>
 						</SwitchContainer>
 						<SwitchContainer>
+							<SwitchValue GroupType="Switch" GroupId="3865314626" Id="2637588553"/>
+							<MediaRefs>
+								<MediaRef Id="174900365"/>
+								<MediaRef Id="577955928"/>
+								<MediaRef Id="647525261"/>
+							</MediaRefs>
+						</SwitchContainer>
+						<SwitchContainer>
+							<SwitchValue GroupType="Switch" GroupId="3865314626" Id="2058049674"/>
+							<MediaRefs>
+								<MediaRef Id="174900365"/>
+								<MediaRef Id="577955928"/>
+								<MediaRef Id="647525261"/>
+							</MediaRefs>
+						</SwitchContainer>
+						<SwitchContainer>
+							<SwitchValue GroupType="Switch" GroupId="3865314626" Id="803837735"/>
+							<MediaRefs>
+								<MediaRef Id="236827622"/>
+								<MediaRef Id="600445228"/>
+								<MediaRef Id="647131193"/>
+							</MediaRefs>
+						</SwitchContainer>
+						<SwitchContainer>
+							<SwitchValue GroupType="Switch" GroupId="3865314626" Id="2654748154"/>
+							<MediaRefs>
+								<MediaRef Id="236827622"/>
+								<MediaRef Id="600445228"/>
+								<MediaRef Id="647131193"/>
+							</MediaRefs>
+						</SwitchContainer>
+						<SwitchContainer>
 							<SwitchValue GroupType="Switch" GroupId="3865314626" Id="4248645337"/>
 							<MediaRefs>
 								<MediaRef Id="115149825"/>
@@ -1018,26 +1733,95 @@
 								<MediaRef Id="742178792"/>
 							</MediaRefs>
 						</SwitchContainer>
+						<SwitchContainer>
+							<SwitchValue GroupType="Switch" GroupId="3865314626" Id="2473969246"/>
+							<MediaRefs>
+								<MediaRef Id="174900365"/>
+								<MediaRef Id="577955928"/>
+								<MediaRef Id="647525261"/>
+							</MediaRefs>
+						</SwitchContainer>
 					</SwitchContainers>
 				</Event>
-				<Event Id="856071815" Name="Grunt_Bauul"/>
-				<Event Id="4013911457" Name="Grunt_Goblin"/>
-				<Event Id="4053570031" Name="Grunt_HellPig"/>
-				<Event Id="1636303851" Name="Grunt_Knight"/>
-				<Event Id="2202981293" Name="Grunt_Ogre"/>
-				<Event Id="3838741285" Name="Grunt_Rat"/>
-				<Event Id="436652326" Name="Grunt_Rhino"/>
-				<Event Id="401958326" Name="Grunt_Slith"/>
-				<Event Id="1110865203" Name="Hit_Fireball_Monster"/>
-				<Event Id="2323254379" Name="Hit_FireGem_Monster"/>
-				<Event Id="2706330144" Name="Hit_FireGem_Player"/>
+				<Event Id="856071815" Name="Grunt_Bauul">
+					<MediaRefs>
+						<MediaRef Id="522671429"/>
+					</MediaRefs>
+				</Event>
+				<Event Id="4013911457" Name="Grunt_Goblin">
+					<MediaRefs>
+						<MediaRef Id="522671429"/>
+					</MediaRefs>
+				</Event>
+				<Event Id="4053570031" Name="Grunt_HellPig">
+					<MediaRefs>
+						<MediaRef Id="522671429"/>
+					</MediaRefs>
+				</Event>
+				<Event Id="1636303851" Name="Grunt_Knight">
+					<MediaRefs>
+						<MediaRef Id="522671429"/>
+					</MediaRefs>
+				</Event>
+				<Event Id="2202981293" Name="Grunt_Ogre">
+					<MediaRefs>
+						<MediaRef Id="522671429"/>
+					</MediaRefs>
+				</Event>
+				<Event Id="3838741285" Name="Grunt_Rat">
+					<MediaRefs>
+						<MediaRef Id="522671429"/>
+					</MediaRefs>
+				</Event>
+				<Event Id="436652326" Name="Grunt_Rhino">
+					<MediaRefs>
+						<MediaRef Id="522671429"/>
+					</MediaRefs>
+				</Event>
+				<Event Id="401958326" Name="Grunt_Slith">
+					<MediaRefs>
+						<MediaRef Id="522671429"/>
+					</MediaRefs>
+				</Event>
+				<Event Id="1110865203" Name="Hit_Fireball_Monster">
+					<MediaRefs>
+						<MediaRef Id="732682417"/>
+						<MediaRef Id="938305357"/>
+					</MediaRefs>
+				</Event>
+				<Event Id="2323254379" Name="Hit_FireGem_Monster">
+					<MediaRefs>
+						<MediaRef Id="24580226"/>
+						<MediaRef Id="141265795"/>
+						<MediaRef Id="503509662"/>
+						<MediaRef Id="552461562"/>
+						<MediaRef Id="610913128"/>
+						<MediaRef Id="661668266"/>
+						<MediaRef Id="920964299"/>
+					</MediaRefs>
+				</Event>
+				<Event Id="2706330144" Name="Hit_FireGem_Player">
+					<MediaRefs>
+						<MediaRef Id="24580226"/>
+						<MediaRef Id="141265795"/>
+						<MediaRef Id="503509662"/>
+						<MediaRef Id="552461562"/>
+						<MediaRef Id="610913128"/>
+						<MediaRef Id="661668266"/>
+						<MediaRef Id="920964299"/>
+					</MediaRefs>
+				</Event>
 				<Event Id="3957683912" Name="Hit_Iceball_Monster">
 					<MediaRefs>
 						<MediaRef Id="141022160"/>
 						<MediaRef Id="758758935"/>
 					</MediaRefs>
 				</Event>
-				<Event Id="3024368545" Name="Hit_Slimeball_Monster"/>
+				<Event Id="3024368545" Name="Hit_Slimeball_Monster">
+					<MediaRefs>
+						<MediaRef Id="346666106"/>
+					</MediaRefs>
+				</Event>
 				<Event Id="2677419351" Name="ItemHealth100">
 					<MediaRefs>
 						<MediaRef Id="450169587"/>
@@ -1056,7 +1840,9 @@
 				</Event>
 				<Event Id="2521139513" Name="ItemMagic">
 					<MediaRefs>
+						<MediaRef Id="104602356"/>
 						<MediaRef Id="450169587"/>
+						<MediaRef Id="780687024"/>
 					</MediaRefs>
 				</Event>
 				<Event Id="1125681085" Name="ItemSpawn">
@@ -1074,13 +1860,23 @@
 						<MediaRef Id="385146442"/>
 					</MediaRefs>
 				</Event>
-				<Event Id="3833651337" Name="Jump"/>
+				<Event Id="3833651337" Name="Jump">
+					<MediaRefs>
+						<MediaRef Id="675351052"/>
+						<MediaRef Id="709207210"/>
+						<MediaRef Id="863063982"/>
+					</MediaRefs>
+				</Event>
 				<Event Id="4149105284" Name="JumpPad">
 					<MediaRefs>
 						<MediaRef Id="954216284"/>
 					</MediaRefs>
 				</Event>
-				<Event Id="674522502" Name="Land"/>
+				<Event Id="674522502" Name="Land">
+					<MediaRefs>
+						<MediaRef Id="1039211944"/>
+					</MediaRefs>
+				</Event>
 				<Event Id="1758594367" Name="Map_Loaded">
 					<MediaRefs>
 						<MediaRef Id="72817088"/>
@@ -1093,36 +1889,88 @@
 					</MediaRefs>
 				</Event>
 				<Event Id="1996139369" Name="Pain">
+					<MediaRefs>
+						<MediaRef Id="187954308"/>
+						<MediaRef Id="191505573"/>
+						<MediaRef Id="219044673"/>
+						<MediaRef Id="411764063"/>
+						<MediaRef Id="738953253"/>
+						<MediaRef Id="836247730"/>
+					</MediaRefs>
 					<PluginRefs>
 						<Custom>
 							<PluginRef Id="652610570"/>
 						</Custom>
 					</PluginRefs>
 				</Event>
-				<Event Id="930941543" Name="Pain_Bauul"/>
-				<Event Id="32029953" Name="Pain_Goblin"/>
+				<Event Id="930941543" Name="Pain_Bauul">
+					<MediaRefs>
+						<MediaRef Id="575800854"/>
+						<MediaRef Id="982893105"/>
+					</MediaRefs>
+				</Event>
+				<Event Id="32029953" Name="Pain_Goblin">
+					<MediaRefs>
+						<MediaRef Id="226244650"/>
+					</MediaRefs>
+				</Event>
 				<Event Id="4052749775" Name="Pain_HellPig">
 					<MediaRefs>
 						<MediaRef Id="620009095"/>
 					</MediaRefs>
 				</Event>
-				<Event Id="1207059019" Name="Pain_Knight"/>
-				<Event Id="2465710861" Name="Pain_Ogre"/>
-				<Event Id="1698673413" Name="Pain_Rat"/>
-				<Event Id="87064326" Name="Pain_Rhino"/>
+				<Event Id="1207059019" Name="Pain_Knight">
+					<MediaRefs>
+						<MediaRef Id="424141051"/>
+					</MediaRefs>
+				</Event>
+				<Event Id="2465710861" Name="Pain_Ogre">
+					<MediaRefs>
+						<MediaRef Id="858495136"/>
+						<MediaRef Id="944893494"/>
+					</MediaRefs>
+				</Event>
+				<Event Id="1698673413" Name="Pain_Rat">
+					<MediaRefs>
+						<MediaRef Id="525218887"/>
+						<MediaRef Id="1024935706"/>
+					</MediaRefs>
+				</Event>
+				<Event Id="87064326" Name="Pain_Rhino">
+					<MediaRefs>
+						<MediaRef Id="162814894"/>
+						<MediaRef Id="715743738"/>
+					</MediaRefs>
+				</Event>
 				<Event Id="52370326" Name="Pain_Slith">
 					<MediaRefs>
 						<MediaRef Id="104322891"/>
 					</MediaRefs>
 				</Event>
-				<Event Id="1052365209" Name="PupMagic"/>
+				<Event Id="1052365209" Name="PupMagic">
+					<MediaRefs>
+						<MediaRef Id="15512028"/>
+						<MediaRef Id="210543435"/>
+					</MediaRefs>
+				</Event>
 				<Event Id="3732061108" Name="PupOut">
+					<MediaRefs>
+						<MediaRef Id="718340244"/>
+					</MediaRefs>
 					<ActionSetState>
 						<ActionSetStateEntry GroupId="1771987172" Id="1668749452" Name="No"/>
 					</ActionSetState>
 				</Event>
-				<Event Id="157639802" Name="Rumble"/>
-				<Event Id="779629997" Name="Spawn_Monster"/>
+				<Event Id="157639802" Name="Rumble">
+					<MediaRefs>
+						<MediaRef Id="298386193"/>
+					</MediaRefs>
+				</Event>
+				<Event Id="779629997" Name="Spawn_Monster">
+					<MediaRefs>
+						<MediaRef Id="960411571"/>
+					</MediaRefs>
+				</Event>
 				<Event Id="1379053034" Name="Spawn_Player">
 					<ActionSetState>
 						<ActionSetStateEntry GroupId="444815956" Id="655265632" Name="Alive"/>
@@ -1157,6 +2005,9 @@
 					</ActionSetState>
 				</Event>
 				<Event Id="3137127082" Name="SuperGemPup">
+					<MediaRefs>
+						<MediaRef Id="718340244"/>
+					</MediaRefs>
 					<ActionSetState>
 						<ActionSetStateEntry GroupId="1771987172" Id="979470758" Name="Yes"/>
 					</ActionSetState>
@@ -1858,5 +2709,5 @@
 			</Triggers>
 		</SoundBank>
 	</SoundBanks>
-	<FileHash>{23991397-05B4-C597-517B-483B790AAC63}</FileHash>
+	<FileHash>{F4E5ED6E-8C42-4D8A-DA70-A4AFA80BC377}</FileHash>
 </SoundBanksInfo>
