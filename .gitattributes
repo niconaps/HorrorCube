@@ -2092,4 +2092,5 @@ Cube/cube_source/zlib-1.2.3/zlib.h filter=lfs diff=lfs merge=lfs -text
 Cube/cube_source/zlib-1.2.3/zutil.c filter=lfs diff=lfs merge=lfs -text
 Cube/cube_source/zlib-1.2.3/zutil.h filter=lfs diff=lfs merge=lfs -text
 Cube/sample.json filter=lfs diff=lfs merge=lfs -text
-Cube/* filter=lfs diff=lfs merge=lfs -text
+Cube/** filter=lfs diff=lfs merge=lfs -text
+Potential[[:space:]]sounds/* filter=lfs diff=lfs merge=lfs -text
